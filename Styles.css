@@ -1,0 +1,229 @@
+﻿    header 
+        {
+            height: 37px;
+            width: 1100px;
+            margin-top: 30px;
+            margin-bottom: 115px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        footer
+        {
+            margin-top: 100px;
+            height: 105px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #403D65;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            position: fixed;
+        }
+        nav1
+        {
+            float: right;
+            font-weight: 800;
+            color: #B1AEDE;
+            font-family: 'Raleway', sans-serif;
+            font-size: 12px;
+            margin-left: 35px;
+            margin-top: 12px;
+        }
+        nav2
+        {
+            font-weight: 800;
+            color: #B1AEDE;
+            font-family: 'Raleway', sans-serif;
+            font-size: 12px;
+           
+        }
+        #Links:hover
+        {
+           color: #ffffff !important;
+        }
+        #Links:active 
+        {
+            color: #ffffff;
+            border-bottom-style: solid;
+            border-bottom-color: #FF8ED8;
+        }
+
+        #Pic:hover 
+        {
+            opacity: 0.75;
+        }
+
+        div.centre
+        {
+            width: 1100px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        label.headline
+        {
+            font-family:'Raleway', sans-serif;
+            font-weight: 800;
+            font-size: 52px;
+            height: 56px;
+            color: #ffffff;
+            margin-bottom: 35px;
+        }
+
+        label.subtext
+        {
+            font-family:'Roboto Slab', serif;
+            font-weight:400;
+            font-size:25px;
+            margin-bottom:120px;
+            color:#B1AEDE;
+        }
+
+        button.order
+        {
+            background-color: #FF8ED8;
+            height: 80px;
+            margin-top: 90px;
+            margin-bottom: 30px;
+            margin-left: 0px;
+            margin-right: 40px;
+            -moz-border-radius: 40px;
+            -webkit-border-radius: 40px;
+            color: #ffffff;
+            font-size: 24px;
+            font-weight: 800;
+            font-family: 'Raleway', sans-serif;
+            box-shadow: 0 0 30px #8E2624;
+            text-align: center;
+        }
+
+        button.order:hover
+        {
+            box-shadow: 0 0 30px #403D65;
+            color: #403D65;
+        }
+
+        div.aboutus
+        {
+            width: 750px;
+            padding-bottom: 80px;
+            padding-top: 80px;
+            padding-left: 80px;
+            padding-right: 80px;
+            margin-bottom: 90px;
+            margin-top: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #ffffff;
+            box-shadow: 0 0 110px #fafafa;
+        }
+
+        label.aboutustitle
+        {
+            font-family:'Raleway',sans-serif;
+            font-size: 24px;
+            font-weight: 800;
+            margin-bottom: 35px;
+            color: #FF8ED8;
+        }
+
+        label.aboutusbody
+        {
+            font-family: 'Roboto Slab', serif;
+            font-weight: 400;
+            font-size: 18px;
+            max-width: 480px;
+            color: #5C5C5C;
+        }
+
+        label.jebname
+        {
+            font-family:'Raleway', sans-serif;
+            font-weight: 800;
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #5C5C5C;
+        }
+
+        label.jezname
+        {
+            font-family:'Raleway', sans-serif;
+            font-weight: 800;
+            font-size: 20px;
+            margin-bottom: 10px;
+            color: #5C5C5C;
+        }
+        label.jebtitle
+        {
+            color: #FF8ED8;
+            font-family:'Raleway', sans-serif;
+            font-weight: 800;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        label.jeztitle
+        {
+            color: #FF8ED8;
+            font-family:'Raleway', sans-serif;
+            font-weight: 800;
+            font-size: 20px;
+            margin-bottom: 10px;
+            text-align: right;
+        }
+
+        div.jeb
+        {
+            width: 750px;
+            padding: 80px 80px 80px 180px;
+            margin-bottom: 90px;
+            margin-top: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #ffffff;
+            box-shadow: 0 0 110px #fafafa;
+            position:relative;
+        }
+
+        div.jez
+        {
+            width: 750px;
+            padding: 80px 180px 80px 80px;
+            margin-bottom: 200px;
+            margin-top: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #ffffff;
+            box-shadow: 0 0 110px #fafafa;
+            position:relative;
+            text-align: right;
+        }
+
+        img.jeb
+        {
+            width: 208px;
+            top: -40px;
+            left: -70px;
+            position: absolute;
+            border: 20px solid white;
+            border-radius: 50%;
+        }
+
+        img.jez
+        {
+            width: 208px;
+            top: -40px;
+            right: -70px;
+            position: absolute;
+            border: 20px solid white;
+            border-radius: 50%;
+        }
+
+        form
+        {
+            width: 500px;
+            margin-top: 40px;
+            margin-bottom: 40px;
+            margin-left: auto;
+            margin-right: auto;
+        }
